@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🎵 Spotify Clone
 
 A sleek and responsive **Spotify Clone** built with **React.js**, styled using **Tailwind CSS**, and powered with **dynamic context-based music management**.  
